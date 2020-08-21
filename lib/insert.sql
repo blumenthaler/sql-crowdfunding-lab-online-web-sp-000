@@ -1,1 +1,0 @@
-INSERT INTO projects (id, name, age) VALUES (1, "Bill", 24);
